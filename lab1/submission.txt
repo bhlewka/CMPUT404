@@ -1,0 +1,20 @@
+Enrolled late, missed first 2 labs, attemting to complete them
+
+1. https://github.com/bhlewka/CMPUT404
+
+2. 2.9.1
+
+3. 2.21.0
+
+4. the virtual environment has a different version of requests, not sure why
+
+5. status code is 301, permanently moved
+visit this site for https://httpstat.us/200
+I think it is just a simple confirmation, no other information for you
+
+6. status code 418, same as with the other commands
+
+7. i think its an attempted post request, to add new information
+
+8.
+
