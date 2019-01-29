@@ -1,0 +1,15 @@
+1. https://github.com/bhlewka/CMPUT404/tree/master/lab4/mysite
+
+2. the install successfully worked! little rocket ship thingy
+
+3. / is a 404 page not found, different from the assignment 1 page, polls is some hellow world text
+
+4. they are changes we make to our database schematic, mostly automatic, according to google
+
+5. we see an admin page that lets us edit our db, we can access more by adding them to the admin.py page
+
+6. we see "question 38", this goes on ad infinitum
+
+7. when they change we will have to manually change them in all the templates instead of them doing so dynamically
+
+8. a generic view is quick, easy, and convenient for static pages, so you wouldn't want to use it when your page has dynamic changes
